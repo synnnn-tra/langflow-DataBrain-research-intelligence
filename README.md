@@ -1,6 +1,12 @@
 # DBRI — DataBrain Research Intelligence
 
-**Access the DBRI Langflow project files and import documentation below.**
+**An AI research workflow for technology intelligence, structured analysis, and decision support.**
+
+DBRI (DataBrain Research Intelligence) is a visual AI workflow project built with Langflow, designed to transform research questions and supplied context into structured, evidence-conscious research briefs. The project emphasizes traceable reasoning, explicit limitations, and clearly communicated findings to support more informed technology research and analysis.
+
+Developed as a modular prototype, DBRI provides a foundation for experimenting with AI-assisted research orchestration, context processing, and consistent report generation. Its architecture is intended to evolve through validated integrations and reproducible evaluation.
+
+Explore the workflow, implementation notes, and official development resources below to understand the current capabilities, configure the project, and evaluate its potential for further development.
 
 [![Langflow](https://img.shields.io/badge/Langflow-1.12.4-0f766e?style=flat-square)](https://www.langflow.org/)
 [![Status](https://img.shields.io/badge/status-prototype-orange?style=flat-square)](./flows/README.md)
