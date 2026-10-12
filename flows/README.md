@@ -2,7 +2,7 @@
 
 ## Current exported flow
 
-- **File:** [dbri-langflow-1.12.4.json](dbri-langflow-1.12.4.json)
+- **File:** [dbri-langflow-1.12.4.json](DataBrain Update Version 2.2 - Task 11 IntegrationDeployment.json)
 - **Flow name in metadata:** DataBrain Update Version 2.2 - Task 11 IntegrationDeployment
 - **Langflow version in export metadata:** 1.12.4
 - **Graph:** five nodes, four edges
