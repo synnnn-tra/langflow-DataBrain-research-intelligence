@@ -3,12 +3,21 @@
 **Access the DBRI Langflow project files and import documentation below.**
 
 [![Langflow](https://img.shields.io/badge/Langflow-1.12.4-0f766e?style=flat-square)](https://www.langflow.org/)
-[![Download Langflow JSON](https://img.shields.io/badge/status-prototype-orange?style=flat-square)](./flows/DataBrain%20Update%20Version%202.2%20-%20Task%2011%20IntegrationDeployment.json)
-[![Flow format](https://img.shields.io/badge/flow-JSON-8250df?style=flat-square)](flows/dbri-langflow-1.12.4.json)
+[![Status](https://img.shields.io/badge/status-prototype-orange?style=flat-square)](./flows/README.md)
+[![Flow JSON](https://img.shields.io/badge/flow-JSON-8250df?style=flat-square)](./flows/DataBrain%20Update%20Version%202.2%20-%20Task%2011%20IntegrationDeployment.json)
+[![IBM Bob](https://img.shields.io/badge/IBM-Bob-1261FE?style=flat-square)](https://bob.ibm.com/download)
+[![IBM SkillsBuild](https://img.shields.io/badge/IBM-SkillsBuild-052FAD?style=flat-square)](https://skillsbuild.org/)
 
 DBRI is a local-first visual AI workflow project built with Langflow. Its direction is to help users frame a research question, work with supplied context, synthesize findings, and produce a consistent research brief with limitations made explicit.
 
 > **Prototype notice:** the committed flow is a starting point for local evaluation, not a claim that every planned capability has been tested. Live web research, Composio tools, and IBM Bob/MCP integration must be configured and validated separately.
+
+## Official Tools & Learning Resources
+
+* **[IBM Bob — Download](https://bob.ibm.com/download):** Official download page for IBM Bob, an AI-powered software development partner.
+* **[IBM SkillsBuild](https://skillsbuild.org/):** Official learning platform for AI, cybersecurity, data, and technology skills.
+
+These links provide access to the official IBM tools and learning resources relevant to the project's development workflow.
 
 ## Contents
 
