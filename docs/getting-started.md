@@ -4,7 +4,7 @@ This guide targets a local Windows setup using Langflow 1.12.4 and the flow expo
 
 ## 1. Get the flow
 
-Download the [DBRI Langflow JSON](./flows/DataBrain%20Update%20Version%202.2%20-%20Task%2011%20IntegrationDeployment.json). to a working folder.
+Download the [![Flow JSON](https://img.shields.io/badge/flow-JSON-8250df?style=flat-square)](./flows/DataBrain%20Update%20Version%202.2%20-%20Task%2011%20IntegrationDeployment.json) to a working folder.
 
 ## 2. Import into Langflow
 
