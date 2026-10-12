@@ -9,7 +9,7 @@ Download the [![Flow JSON](https://img.shields.io/badge/flow-JSON-8250df?style=f
 ## 2. Import into Langflow
 
 1. Open the local Langflow interface.
-2. Use its flow import/upload action and select `dbri-langflow-1.12.4.json`.
+2. Use its flow import/upload action and select `DataBrain Update Version 2.2 - Task 11 IntegrationDeployment.json`.
 3. Inspect the canvas after import. Confirm the five nodes and four main-path connections are present.
 4. Open the model component and configure a valid Google Generative AI credential through the installed component's supported interface.
 
