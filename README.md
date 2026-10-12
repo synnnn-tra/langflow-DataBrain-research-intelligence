@@ -3,7 +3,7 @@
 **An evidence-aware research agent for technology scouting, market intelligence, and structured research briefs.**
 
 [![Langflow](https://img.shields.io/badge/Langflow-1.12.4-0f766e?style=flat-square)](https://www.langflow.org/)
-[![Project status](https://img.shields.io/badge/status-prototype-orange?style=flat-square)](#project-status)
+[![Download Langflow JSON](https://img.shields.io/badge/status-prototype-orange?style=flat-square)](./flows/DataBrain%20Update%20Version%202.2%20-%20Task%2011%20IntegrationDeployment.json)
 [![Flow format](https://img.shields.io/badge/flow-JSON-8250df?style=flat-square)](flows/dbri-langflow-1.12.4.json)
 
 DBRI is a local-first visual AI workflow project built with Langflow. Its direction is to help users frame a research question, work with supplied context, synthesize findings, and produce a consistent research brief with limitations made explicit.
