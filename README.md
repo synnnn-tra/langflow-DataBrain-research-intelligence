@@ -2,9 +2,14 @@
 
 **Access the DBRI Langflow project files and import documentation below.**
 
-Browse all flow files — Open the flows/ directory and view the available project files.
-Read flow documentation — Learn about the exported workflow and how to import it.
-Download Langflow JSON — Open the exported DBRI workflow JSON.
+**Browse all flow files**
+Open the flows/ directory and view the available project files.
+
+**Read flow documentation**
+Learn about the exported workflow and how to import it.
+
+**Download Langflow JSON**
+Open the exported DBRI workflow JSON.
 
 [![Langflow](https://img.shields.io/badge/Langflow-1.12.4-0f766e?style=flat-square)](https://www.langflow.org/)
 [![Download Langflow JSON](https://img.shields.io/badge/status-prototype-orange?style=flat-square)](./flows/DataBrain%20Update%20Version%202.2%20-%20Task%2011%20IntegrationDeployment.json)
