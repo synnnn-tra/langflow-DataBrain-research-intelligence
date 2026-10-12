@@ -81,7 +81,7 @@ The **solid path** represents the flow described by the JSON. The **dashed path*
 ## Quick start
 
 1. Install or open **Langflow 1.12.4** in your local Windows environment.
-2. Download [`flows/dbri-langflow-1.12.4.json`](flows/dbri-langflow-1.12.4.json).
+2. Download [![Flow JSON](https://img.shields.io/badge/flow-JSON-8250df?style=flat-square)](./flows/DataBrain%20Update%20Version%202.2%20-%20Task%2011%20IntegrationDeployment.json)
 3. Import the JSON as a flow in Langflow. Review the nodes and component configuration after import.
 4. Configure your Google Generative AI credential using the method supported by your installed Langflow component.
 5. Run a small, low-risk prompt first, such as: “Create a research brief outline for evaluating AI customer-support assistants for Indonesian small businesses. Clearly label assumptions and missing evidence.”
